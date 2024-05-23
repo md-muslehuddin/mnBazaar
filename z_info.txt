@@ -1,0 +1,7 @@
+Smartphone Brand: 13
+Smartwatch Brand: 6
+
+Total Smartphone: (12*10)+2 = 122
+Total Smartwatch: 6*10 = 60 - 3 = 57
+
+Total Images: 13 + 6 + 122 + 57 + 2 = 200

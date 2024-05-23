@@ -1,0 +1,7 @@
+
+Home.jsx & AllBrands.jsx > Brands.jsx (blank template)
+Home.jsx & AllBrands.jsx >> ItemTemplate.jsx > Item.jsx (blank template)
+Home.jsx & AllBrands.jsx >> ItemTemplate.jsx >> ItemProfile.jsx >> Item specification (SmartphoneDetails.jsx & SmartwatchDetails.jsx) >from>(Smartphone.jsx & Smartwatch.jsx)
+
+
+Home.jsx  >> ItemTemplate.jsx >> ItemProfile.jsx
